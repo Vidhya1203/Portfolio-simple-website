@@ -8,8 +8,10 @@ Contact Page: Provides a way for visitors to reach out, with a simple contact fo
 
 Technologies Used
 HTML5: For structured content and semantic markup.
+
 CSS3: For styling and layout, ensuring a visually appealing design.
 Getting Started
+
 To view the website, clone this repository and open the index.html file in your web browser.
 
 
